@@ -1,0 +1,11 @@
+To make some noodles:
+
+ingredients:
+- noodles;
+- water;
+
+how to:
+- first boil water in a pan;
+- then add noodles;
+- let cooking for three minutes;
+- Congratulations! It's done!
